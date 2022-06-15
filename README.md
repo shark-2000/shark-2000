@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katyayan</h1>
-<h3 align="center">A passionate automstion tester from india</h3>
+<h3 align="center">A passionate automation tester from india</h3>
 
 - 💬 Ask me about **git , linux flutter html css java javascript python**
 
