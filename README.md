@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katyayan Sharma</h1>
 <h3 align="center">A passionate automation tester from India</h3>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Android with kotlin**
 
 - 💬 Ask me about **flutter , firebase , linux , selenium , TestNG , Postman , RestAssured**
 
