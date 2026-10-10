@@ -2,6 +2,10 @@
 
 # Hi, I'm Katyayan Sharma 👋
 
+**[✦ Visit my portfolio](https://shark-2000.github.io/) · [Projects & hiring enquiries](https://shark-2000.github.io/#enquiry)**
+
+I help teams automate reporting, organize their data, and keep analytics platforms running.
+
 ### Azure Data Engineer | Databricks Specialist | 4+ Years Building Scalable Data Pipelines
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Azure+Databricks+%7C+PySpark+%7C+Delta+Lake;%20%20Building+Cloud-Scale+Data+Pipelines+since+2022;%20%20Lakehouse+Architecture+%7C+ETL%2FELT+%7C+Data+Engineering&font=Fira%20Code&center=true&width=800&height=45&color=2E86AB&vCenter=true&size=22" alt="Typing SVG" />
@@ -16,7 +20,7 @@
 - 🔭 I design and build large-scale **ETL/ELT pipelines**, **Lakehouse architectures**, and **data platforms** on Azure
 - 🌱 Currently deepening my expertise in **Unity Catalog, Delta Live Tables, and Lakehouse governance**
 - 💬 Ask me about **Azure Databricks, PySpark, Spark SQL, Delta Lake, Azure Data Factory, Azure Synapse Analytics, AWS (S3, Glue, Redshift)**
-- 📫 Reach me at **[katyayan.sharma00@gmail.com](mailto:katyayan.sharma00@gmail.com)**
+- 📫 Reach me at **[Send an enquiry](https://shark-2000.github.io/#enquiry)**
 - ⚡ Hobbies: **Photography, reading manga, and exploring new tech**
 
 ---
@@ -86,9 +90,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-<a href="mailto:katyayan.sharma00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://shark-2000.github.io/#enquiry">Send an enquiry</a>
 </p>
 
 <div align="center">
