@@ -13,7 +13,7 @@ PORTFOLIO
 https://github.com/shark-2000/my_finance_hub
 
 CONTACT
-katyayan.sharma00@gmail.com
+https://shark-2000.github.io/#enquiry
 
 STARTER OFFERS
 1. Automate one recurring BI task: code, configuration, logs, runbook and walkthrough.
